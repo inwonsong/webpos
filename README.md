@@ -1,8 +1,7 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/ichvanul/PointOfSales-VueJs/blob/master/src/assets/img/food-and-restaurant.png" width="200">
   <br>
-  Point Of Sales Frontend - Vue Js
+ WebPos - Vue Js
   <br>
 </h1>
 
@@ -23,15 +22,13 @@
 
 Point of Sales is a website created for buying and selling transactions, especially for a cashier. There are many features including being able to send checkout receipts in PDF format or sent via email. Written in Vue Js.
 
-## Demo
 
-![Screenshot](https://github.com/ichvanul/PointOfSales-VueJs/blob/master/src/assets/POS.jpg)
 
 ## How To Install
 
 1. ### Clone this repository
    ```
-   $ git clone https://github.com/ichvanul/PointOfSales-VueJs.git
+   $ git clone https://github.com/inwonsong/webpos_first.git
    ```
 2. ### Install all depedencies on the package.json
    ```
@@ -54,8 +51,6 @@ Point of Sales is a website created for buying and selling transactions, especia
    
 ## Related Project
 
-- [`Point Of Sales Backend RestFulAPI`](https://github.com/ichvanul/PointOfSales-Backend-NodeJs-ExpressJs.git)
 
 ## Contact
 
-If you want to contact me you can reach me at <ichvanulyp@gmail.com>.
